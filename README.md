@@ -1,12 +1,12 @@
-NB: This is a template to make documentation process easy. You can remove the `To-Do` notes in your final commit
+# Pandas-Analytics-Project
 
-# Project Title Here
-
-To-Do - Write a short project description here.
+The purpose of this project is to analyze data from three different brances of a supermaket chain.
 
 # Project Steps
 
-To-Do - Explain in detail, the project steps and overview of different tasks completed here.
+1.  Was to import all the required all the libraries and collate the data from the three different locations into one dataframe (df3).
+Then use the df.head() to ensure that the new dataframe created is up and running. 
+ 2. Use the .shape() function to understand the rows and column numbers contained in the dataframe and the call column_name. 
 
 # Insights
 
