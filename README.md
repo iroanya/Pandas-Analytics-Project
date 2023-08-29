@@ -24,8 +24,13 @@ In the future I will like to have a breakdown of the product lines so as to find
 
 # Standout Section
 
-I lokked closely at the data provided and discovered that there is not much statistical differences in most of the columns.
+I looked closely at the data provided and discovered that there is not much statistical differences in most of the columns. However, it is important to note that upon review of the ratings section, something appears to be outstanding.
+1. 60% of the highest rating point of 10 were from normal customers and 80% of them were female.
+2. 64% of the lowest ratings were from members and 55% were female.
+3. Observed that month one is the highest performing month for Branch A and C, while the Branch B excelled in month two.
+
+The question arises, why are more members disatisfied with items purchased from the stores? And why are the normal shoppers happy with the items? Again why do some stores perform better in certain months. A study should be conducted to find out why this is so.
 
 # Executive Summary.
 
-To-Do - Include your Executive Summary document in your repository.
+The data provided shows that the stores and the locations are about per in sales performance and income earned. The questions asked will center on ways to improve the performance of each store. We would recommend that each store include addresses of the customers and inventory positions per day to help monitor if the sales of certain items were infuenced by the stock balances. 
